@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Book Application</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">edit me!</string>
+    <string name="button_send">send</string>
+
+    <string name="button_1">send1</string>
+    <string name="button_2">send2</string>
+    <string name="button_3">send3</string>
+    <string name="button_4">send4</string>
+
+</resources>
